@@ -1,2 +1,1 @@
-# mohammad
-Wordpress
+# This is Wordpress Theme
